@@ -46,6 +46,8 @@ function sortearAmigo() {
 
     if (listaAmigos.length == 0) {
         alert(`Não há mais amigos para sortear!`);
+        listaAmigosUL.innerHTML = '';
+        resultado.innerHTML = '';
     }
 }
 
