@@ -18,11 +18,11 @@
 
 ---
 
-<h2> 💡 Sobre o Projeto </h2>
+<h2>💡 Sobre o Projeto</h2>
 
 O **Amigo Secreto Online** é uma aplicação web simples e intuitiva, projetada para facilitar a brincadeira tradicional de Amigo Secreto (ou Amigo Oculto). A ferramenta permite registrar participantes e realizar sorteios justos de forma digital, eliminando a necessidade de papéis e garantindo uma organização prática e divertida.
 
-<h2> ✨ Funcionalidades </h2>
+<h2>✨ Funcionalidades</h2>
 
 *   **Adição Dinâmica de Nomes:** Insira nomes na lista de forma dinâmica e instantânea.
 *   **Validação de Entrada:** Impede a adição de nomes vazios, valores puramente numéricos ou nomes já existentes na lista, garantindo dados consistentes.
