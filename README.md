@@ -40,8 +40,11 @@ O **Amigo Secreto Online** é uma aplicação web simples e intuitiva, projetada
 3.  **Realize o sorteio:** Após incluir todos os participantes, clique em "Sortear Amigo". O nome sorteado será destacado e removido da lista. Repita o processo até sortear todos. 
 4.  **Reinicie a aplicação:** Para começar uma nova rodada a qualquer momento, clique no botão "Limpar Lista" para resetar todos os dados.
 
-**Demonstração Visual:**
-<img src="assets/demonstracao.gif" alt="Demonstração do Aplicativo funcionando" width="600">
+ 
+
+<p align="center">
+<img src="assets/demonstracao.gif" alt="Demonstracao do aplicativo funcionando" width="600">
+</p>
 
 ## 💻Tecnologias Utilizadas
 
