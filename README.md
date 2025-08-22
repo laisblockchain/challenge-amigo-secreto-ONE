@@ -41,9 +41,7 @@ O **Amigo Secreto Online** é uma aplicação web simples e intuitiva, projetada
 4.  **Reinicie a aplicação:** Para começar uma nova rodada a qualquer momento, clique no botão "Limpar Lista" para resetar todos os dados.
 
 **Demonstração Visual:**
-<!-- **Sugestão:** Para deixar seu README ainda mais atrativo, crie um pequeno GIF ou adicione um screenshot da aplicação em funcionamento aqui. Isso ajuda muito os visitantes a entenderem o projeto rapidamente. Você pode usar ferramentas como o Loom para gravar GIFs ou simplesmente tirar uma captura de tela. -->
-<!-- Exemplo de como adicionar um GIF: -->
-<!-- ![Demonstração da Aplicação Amigo Secreto Online](link-para-o-seu-gif-ou-screenshot.gif) -->
+<img src="assets/demonstracao.gif" alt="Demonstração do Aplicativo funcionando" width="600">
 
 ## 💻Tecnologias Utilizadas
 
