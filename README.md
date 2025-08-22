@@ -14,6 +14,7 @@
 *   [Tecnologias Utilizadas](#tecnologias-utilizadas)
 *   [Acesso ao Projeto](#acesso-ao-projeto)
 *   [Desenvolvedora](#desenvolvedora)
+*   [Parceria](#parceria)
 *   [Licença](#licença)
 
 ---
@@ -85,6 +86,15 @@ cd SEU_REPOSITORIO
     <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub">
   </a>
   Laís Helena
+</p>
+
+## 🤝Parceria
+
+Este projeto foi desenvolvido como parte do programa [Oracle Next Education](https://www.oracle.com/br/education/oracle-next-education/) em colaboração com a [Alura](https://www.alura.com.br/).
+
+<p align="center">
+  <img src="https://www.alura.com.br/assets/img/home/alura-logo.svg" alt="Logo Alura" width="150">
+  <img src="https://www.oracle.com/a/ocom/img/cb71-one-logo.png" alt="Logo Oracle Next Education" width="150">
 </p>
 
 ## ✅Licença
