@@ -75,10 +75,10 @@ git clone https://github.com/laisblockchain/challenge-amigo-secreto-ONE.git
 cd SEU_REPOSITORIO
 
 # 3. Abra o arquivo `index.html` em seu navegador web preferido.
-#    (Sugestão: Utilize extensões de servidor local como o "Live Server" do VS Code para facilitar o desenvolvimento.)
+#   (Sugestão: Utilize extensões de servidor local como o "Live Server" do VS Code para facilitar o desenvolvimento.)
 ```
 
-## Desenvolvedora
+## 👩‍💻Desenvolvedora
 <p>
   <a href="https://github.com/laisblockchain" >
     <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub">
@@ -86,7 +86,7 @@ cd SEU_REPOSITORIO
   Laís Helena
 </p>
 
-## Licença
+## ✅Licença
 <p>
   <a href="https://opensource.org/licenses/MIT" >
     <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="Licença MIT">
