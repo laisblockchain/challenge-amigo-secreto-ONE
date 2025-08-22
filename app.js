@@ -1,6 +1,11 @@
 let listaAmigos = [];
 let listaAmigosUL = document.querySelector(`#listaAmigos`);
 
+function limparCampos(){
+    listaAmigosUL.innerHTML = '';
+    resultado.innerHTML = '';
+}
+
 function atualizarListaHTML() {
     listaAmigosUL.innerHTML = ''; //limpa todos os itens <li> existentes na <ul> 
 
@@ -15,22 +20,34 @@ function atualizarListaHTML() {
 
 function adicionarAmigo() {
     let campo = document.querySelector('input').value;
+    let verificador = false;
+    for (let i = 0; i < listaAmigos.length; i++) {
+        if (campo.toUpperCase() === listaAmigos[i].toUpperCase()) {
+            verificador = true;
+            break;
+        }
+    }
+
+    if (verificador === true) {
+        alert('Esse amigo já tá lista ;D');
+    }
 
     /*verificacao de nome valido
     1.Campo não pode estar vazio
     2.Não pode ser um número puro */
-    if (campo == '' || !isNaN(Number(campo)) == true) {
+    else if (campo == '' || !isNaN(Number(campo)) == true) {
         alert('Insira um nome válido!');
     }
 
     //adiciona o amigo ao array
-    listaAmigos.push(campo);
-    console.log(`Array de amigos após inserção: ${listaAmigos}`);
-
-    atualizarListaHTML(); //atualiza a lista html
+    else {
+        listaAmigos.push(campo);
+        console.log(`Array de amigos após inserção: ${listaAmigos}`);
+        atualizarListaHTML(); //atualiza a lista html
+    }
 
     let campoLimpo = document.querySelector('input');
-    campoLimpo.value = '';
+    campoLimpo.value = '';//limpa o campo ao final das verificacoes e insercao do novo amigo ao array
 
 }
 
@@ -45,12 +62,15 @@ function sortearAmigo() {
     atualizarListaHTML();
 
     if (listaAmigos.length == 0) {
-        alert(`Não há mais amigos para sortear!`);
-        listaAmigosUL.innerHTML = '';
-        resultado.innerHTML = '';
+        alert(`Não há amigos para sortear!`);
+        limparCampos();
     }
 }
 
-
+function limparLista() {
+    limparCampos();
+    listaAmigos = [];
+    
+}
 
 

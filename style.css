@@ -88,8 +88,11 @@ body {
 }
 
 .button-container {
-    width: 300px;
+    display: flex;
+    /*transforma o div em um container flexivel*/
+    width: auto;
     justify-content: center;
+    gap: 15px;
 }
 
 /* Estilos de entrada de texto */
@@ -144,6 +147,7 @@ ul {
 
 /* Botão de sortear título */
 .button-draw {
+    white-space: nowrap; /*garante que o texto fique somente em uma linha, não quebre.*/
     display: flex;
     align-items: center;
     width: 100%;
