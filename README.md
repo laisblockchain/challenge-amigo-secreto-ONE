@@ -33,7 +33,7 @@ O **Amigo Secreto Online** é uma aplicação web simples e intuitiva, projetada
 *   **Limpeza Manual da Lista:** Um botão dedicado permite resetar todos os participantes e resultados a qualquer momento, facilitando o início de novas rodadas.
 *   **Reinício Automático:** A aplicação é reiniciada automaticamente para uma nova brincadeira após todos os nomes serem sorteados.
 
-## 🚀 Como Usar / Demonstração 
+## 🚀Como Usar / Demonstração 
 
 1.  **Acesse a aplicação:** Abra o link da aplicação hospedada (veja a seção [Acesso ao Projeto](#acesso-ao-projeto)).
 2.  **Adicione os nomes:** No campo de texto, digite o nome de um participante e clique no botão "Adicionar". A aplicação validará e adicionará o nome à lista.
@@ -45,13 +45,13 @@ O **Amigo Secreto Online** é uma aplicação web simples e intuitiva, projetada
 <!-- Exemplo de como adicionar um GIF: -->
 <!-- ![Demonstração da Aplicação Amigo Secreto Online](link-para-o-seu-gif-ou-screenshot.gif) -->
 
-## 💻 Tecnologias Utilizadas
+## 💻Tecnologias Utilizadas
 
 *   **HTML5:** Estruturação semântica do conteúdo.
 *   **CSS3:** Estilização e responsividade da interface do usuário.
 *   **JavaScript:** Lógica principal da aplicação, incluindo manipulação do DOM, validação de entrada, algoritmo de sorteio e gerenciamento do estado.
 
-## 📥 Acesso ao Projeto
+## 📥Acesso ao Projeto
 
 ### Aplicação Online (Vercel)
 <p>
@@ -63,7 +63,7 @@ O **Amigo Secreto Online** é uma aplicação web simples e intuitiva, projetada
   </a>
 </p>
 
-### ⬇️ Rodar Localmente
+### ⬇️Rodar Localmente
 
 Para ter uma cópia do projeto em sua máquina e executá-lo:
 
