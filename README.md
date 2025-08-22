@@ -6,7 +6,7 @@
   <img alt="Vercel Deploy" src="https://therealsujitk-vercel-badge.vercel.app/?app=amigo-secreto">
 </p>
 
-<h2>Índice</h2>
+## Índice
 
 *   [Sobre o Projeto](#sobre-o-projeto)
 *   [Funcionalidades](#funcionalidades)
@@ -18,11 +18,11 @@
 
 ---
 
-💡<h2>Sobre o Projeto</h2>
+## 💡Sobre o Projeto
 
 O **Amigo Secreto Online** é uma aplicação web simples e intuitiva, projetada para facilitar a brincadeira tradicional de Amigo Secreto (ou Amigo Oculto). A ferramenta permite registrar participantes e realizar sorteios justos de forma digital, eliminando a necessidade de papéis e garantindo uma organização prática e divertida.
 
-✨<h2>Funcionalidades</h2>
+## ✨Funcionalidades
 
 *   **Adição Dinâmica de Nomes:** Insira nomes na lista de forma dinâmica e instantânea.
 *   **Validação de Entrada:** Impede a adição de nomes vazios, valores puramente numéricos ou nomes já existentes na lista, garantindo dados consistentes.
@@ -33,7 +33,7 @@ O **Amigo Secreto Online** é uma aplicação web simples e intuitiva, projetada
 *   **Limpeza Manual da Lista:** Um botão dedicado permite resetar todos os participantes e resultados a qualquer momento, facilitando o início de novas rodadas.
 *   **Reinício Automático:** A aplicação é reiniciada automaticamente para uma nova brincadeira após todos os nomes serem sorteados.
 
-<h2> 🚀 Como Usar / Demonstração </h2>
+## 🚀 Como Usar / Demonstração 
 
 1.  **Acesse a aplicação:** Abra o link da aplicação hospedada (veja a seção [Acesso ao Projeto](#acesso-ao-projeto)).
 2.  **Adicione os nomes:** No campo de texto, digite o nome de um participante e clique no botão "Adicionar". A aplicação validará e adicionará o nome à lista.
@@ -45,7 +45,7 @@ O **Amigo Secreto Online** é uma aplicação web simples e intuitiva, projetada
 <!-- Exemplo de como adicionar um GIF: -->
 <!-- ![Demonstração da Aplicação Amigo Secreto Online](link-para-o-seu-gif-ou-screenshot.gif) -->
 
-<h2> 💻 Tecnologias Utilizadas </h2>
+## 💻 Tecnologias Utilizadas
 
 *   **HTML5:** Estruturação semântica do conteúdo.
 *   **CSS3:** Estilização e responsividade da interface do usuário.
@@ -53,7 +53,7 @@ O **Amigo Secreto Online** é uma aplicação web simples e intuitiva, projetada
 
 ## 📥 Acesso ao Projeto
 
-<h3>Aplicação Online (Vercel)</h3>
+### Aplicação Online (Vercel)
 <p>
   Acesse a versão hospedada e pronta para uso:
   <br>
@@ -78,7 +78,7 @@ cd SEU_REPOSITORIO
 #    (Sugestão: Utilize extensões de servidor local como o "Live Server" do VS Code para facilitar o desenvolvimento.)
 ```
 
-<h2>Desenvolvedora</h2>
+## Desenvolvedora
 <p>
   <a href="https://github.com/laisblockchain" >
     <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub">
@@ -86,7 +86,7 @@ cd SEU_REPOSITORIO
   Laís Helena
 </p>
 
-<h2>Licença</h2>
+## Licença
 <p>
   <a href="https://opensource.org/licenses/MIT" >
     <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="Licença MIT">
