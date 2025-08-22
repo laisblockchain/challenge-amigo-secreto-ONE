@@ -55,7 +55,7 @@ function sortearAmigo() {
     let numeroEscolhido = parseInt(Math.random() * listaAmigos.length); //sorteia um numero aleatorio entre 0 e o tamanho do array - 1
     let nomeEscolhido = listaAmigos[numeroEscolhido]; //adiciona ao nomeEscolhido algum elemento do array que está contido no índice igual ao número aleatório 
     let resultado = document.querySelector('#resultado'); //armazena referencia ao elemento HTML que contém o primeiro id resultado -> #resultado
-    resultado.textContent = nomeEscolhido;//adiciona o nome escolhido ao objeto resultado
+    resultado.textContent =`O amigo secreto sorteado é: ${nomeEscolhido}`;//adiciona o nome escolhido ao objeto resultado
     listaAmigos.splice(numeroEscolhido, 1);//elimina o item do array que contém o indíce do nome escolhido
     console.log(listaAmigos);
     console.log(listaAmigos.length);
@@ -70,7 +70,7 @@ function sortearAmigo() {
 function limparLista() {
     limparCampos();
     listaAmigos = [];
-    
+    console.log(listaAmigos);
 }
 
 
