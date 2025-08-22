@@ -20,14 +20,16 @@ function atualizarListaHTML() {
 
 function adicionarAmigo() {
     let campo = document.querySelector('input').value;
-    let verificador = false;
+    let verificador = false;//false por definicao para nao ativar o alerta de nomes iguais
+    
+    //pega o nome add em campo e verifica se já está no array listaAmigos 
     for (let i = 0; i < listaAmigos.length; i++) {
         if (campo.toUpperCase() === listaAmigos[i].toUpperCase()) {
-            verificador = true;
-            break;
+            verificador = true;//se a condicao de encontro de nomes iguais for validada a função retorna verdadeiro
+            break;//caso encontre um nome em um indice inferior ao tamanho do array, nao precisa percorrer ele todo para finalizar
         }
     }
-
+    //se o for modificar a variavel *verificador* de false para true (nomes iguais) aciona o alerta
     if (verificador === true) {
         alert('Esse amigo já tá lista ;D');
     }
