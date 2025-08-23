@@ -55,15 +55,23 @@ O **Amigo Secreto Online** é uma aplicação web simples e intuitiva, projetada
 
 ## 📥Acesso ao Projeto
 
-### Aplicação Online (Vercel)
+### Aplicação Online 
 <p>
   Acesse a versão hospedada e pronta para uso:
   <br>
-  <br>
+  <h4>Vercel</h4>
   <a href="https://amigo-secreto-nu-lake.vercel.app" >
     <img src="https://assets.vercel.com/image/upload/v1662130559/front/favicon/vercel/180x180.png" alt="Deploy no Vercel" width="50">
+    
   </a>
 </p>
+<p>
+  <h4>GitHub Pages</h4>
+  <a href="[https://amigo-secreto-nu-lake.vercel.app](https://laisblockchain.github.io/challenge-amigo-secreto-ONE/)" >
+    <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" width="50">
+  </a>
+</p>
+
 
 ### ⬇️Rodar Localmente
 
