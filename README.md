@@ -94,7 +94,7 @@ Este projeto foi desenvolvido como parte do programa [Oracle Next Education](htt
 
 <p align="left">
   <img src="assets/one.png" alt="Logo Oracle Next Education" width="50">
-   <img src="https://www.alura.com.br/assets/img/home/alura-logo.svg" alt="Logo Alura" width="50">
+  <img src="https://www.alura.com.br/assets/img/home/alura-logo.svg" alt="Logo Alura" width="50">
 </p>
 
 ## ✅Licença
