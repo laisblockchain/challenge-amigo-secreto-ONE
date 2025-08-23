@@ -67,7 +67,7 @@ O **Amigo Secreto Online** é uma aplicação web simples e intuitiva, projetada
 </p>
 <p>
   <h4>GitHub Pages</h4>
-  <a href="[https://amigo-secreto-nu-lake.vercel.app](https://laisblockchain.github.io/challenge-amigo-secreto-ONE/)" >
+  <a href="https://laisblockchain.github.io/challenge-amigo-secreto-ONE/" >
     <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" width="50">
   </a>
 </p>
