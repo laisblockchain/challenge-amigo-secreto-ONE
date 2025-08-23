@@ -31,7 +31,7 @@ function adicionarAmigo() {
     }
     //se o for modificar a variavel *verificador* de false para true (nomes iguais) aciona o alerta
     if (verificador === true) {
-        alert('Esse amigo já tá lista ;D');
+        alert('Esse amigo já tá na lista ;D');
     }
 
     /*verificacao de nome valido
